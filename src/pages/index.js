@@ -10,13 +10,12 @@ export default function Home() {
 
     <>
       <Container>
-        hello. my world
+        hello. my world1111
       </Container>
 
     </>
   )
 }
-
 
 
 const Container = styled.div`
@@ -29,3 +28,5 @@ const Container = styled.div`
   color:red;
   background-color: #f5f5f5;
   `
+
+
